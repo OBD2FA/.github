@@ -1,2 +1,4 @@
-# .github
-OBD2FA GitHub templates
+# OBD2FA GitHub templates
+
+This repository contains templates used for all GitHub repos as well as the
+public organization overview README document.
