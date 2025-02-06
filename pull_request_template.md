@@ -8,9 +8,8 @@ The pull request title should match the first line (`<type>[optional scope]: <de
 The `type` is the ticket type and the `scope` is the ticket label, if there is one.
 
 The first line of the pull request description should be the `body`, if a body is
-being included. The next line should be blank followed by a line with the issue number and
-a line with the pull request number. Keeping the `#` is important because it will
-create the links back to issues inside GitHub.
+being included. The next line should be blank followed by a line with the issue number.
+Keeping the `#` is important because it will create the links back to issues inside GitHub.
 
 Further information about the Conventional Commits style can be found [here](https://www.conventionalcommits.org/en/v1.0.0/).
 
@@ -22,5 +21,4 @@ Further information about the Conventional Commits style can be found [here](htt
 [optional body]
 
 Issue: #<number>
-Pull Request: #<number>
 ```
