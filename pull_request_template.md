@@ -4,7 +4,8 @@ The following is the template for pull requests. It is important to follow the
 template as your commits will be squashed before being merged into `main` and the
 squash commit will be the pull request title + description.
 
-The pull request title should match the first line: `<type>[optional scope]: <description>`
+The pull request title should match the first line (`<type>[optional scope]: <description>`).
+The `type` is the ticket type and the `scope` is the ticket label, if there is one.
 
 The first line of the pull request description should be the `body`, if a body is
 being included. The next line should be blank followed by a line with the issue number and
