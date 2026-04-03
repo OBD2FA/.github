@@ -20,5 +20,5 @@ Further information about the Conventional Commits style can be found [here](htt
 
 [optional body]
 
-Issue: #<number>
+Closes: #<number>
 ```
